@@ -1,0 +1,16 @@
+{
+	"name": "electron-editor",
+	"version": "1.0.0",
+	"description": "A text editor built with Electron",
+	"main": "main.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "electron ."
+	},
+	"keywords": [],
+	"author": "As a Programmer",
+	"license": "MIT",
+	"devDependencies": {
+		"electron": "^28.0.0"
+	}
+}
